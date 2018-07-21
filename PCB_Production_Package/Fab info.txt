@@ -1,0 +1,40 @@
+PCB part number: 100003
+
+PCB REQUIREMENTS
+
+   
+    Surface Finish: --
+    Layers: 4
+    Board Thickness:  0.062"
+    Board Material:   --
+    Finished copper: 2 oz Cu 
+    Inner copper: 1.5 oz
+    Overlay (silk screen) color: white
+    Solder Mask Color: green
+
+
+FILE SUMMARY
+
+    Gerber
+        GKO - Keep out
+
+        GTO - Top Overlay (silk screen)
+        GTS - Top Solder Mask
+        GTL - Top Copper Layer
+        GPT - Top Pad Master
+        GTP - Top Paste
+
+        GP1 - Internal plane
+        GP2 - Internal plane
+
+        GBL - Bottom Copper Layer
+        GBS - Bottom Solder Mask
+
+        GPB - Bottom Pad Master
+ 
+
+    NC Drill
+        TXT - NC Drill
+        DRR - Drill Tools
+        LDP - Layer Report File
+ 

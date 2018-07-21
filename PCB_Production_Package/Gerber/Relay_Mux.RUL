@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\mburdis\Desktop\mburdis.com\Projects\Relay mux\Second gen\Altium Projects\2018-06-17\Relay_Mux.PcbDoc
+RuleKind=Width|RuleName=Width_Signal|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_Contacts|Scope=Board|Minimum=100.00
+RuleKind=Width|RuleName=Width_Pwr|Scope=Board|Minimum=25.00
+RuleKind=Width|RuleName=Width_serial|Scope=Board|Minimum=10.00
