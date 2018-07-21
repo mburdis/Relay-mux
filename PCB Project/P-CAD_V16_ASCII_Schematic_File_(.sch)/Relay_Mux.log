@@ -1,0 +1,159 @@
+P-CAD Schematic ASCII File Export Log :
+   Current document: C:\Users\mburdis\Desktop\mburdis.com\Projects\Relay mux\Second gen\Altium Projects\2018-07-21_VERIFIED_for_github\P-CAD_V16_ASCII_Schematic_File_(.sch)\Relay_Mux.sch
+   BeginLog
+      Information : 
+      Information :   Start exporting symbols
+      Information :    Exporting symbol definition(s) for component [Term_Block_Phoenix_1803507]
+      Warning :     Symbol name [Term_Block_Phoenix_1803507], mode [Normal], part [1] changed to [Term_Block_Phoenix_1803507_1_N]
+      Warning :     Rectangle [250mil : -2100mil]-[650mil : -100mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Term_Block_Phoenix_1803426]
+      Warning :     Symbol name [Term_Block_Phoenix_1803426], mode [Normal], part [1] changed to [Term_Block_Phoenix_1803426_1_N]
+      Warning :     Rectangle [1550mil : 1750mil]-[2050mil : 2150mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Relay_G6DN-1A DC5]
+      Warning :     Symbol name [Relay_G6DN-1A DC5], mode [Normal], part [1] changed to [Relay_G6DN-1A_DC5_1_N]
+      Warning :     Rectangle [-750mil : 1200mil]-[-250mil : 1450mil] exported as lines.
+      Warning :     Symbol name [Relay_G6DN-1A DC5], mode [Normal], part [2] changed to [Relay_G6DN-1A_DC5_2_N]
+      Warning :     Rectangle [-200mil : -200mil]-[100mil : -50mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Test_Serial_In]
+      Warning :     Symbol name [Test_Serial_In], mode [Normal], part [1] changed to [Test_Serial_In_1_N]
+      Warning :     Rectangle [100mil : 1000mil]-[500mil : 2000mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [HD_Test_Q0-Q7]
+      Warning :     Symbol name [HD_Test_Q0-Q7], mode [Normal], part [1] changed to [HD_Test_Q0-Q7_1_N]
+      Warning :     Rectangle [200mil : 450mil]-[800mil : 2100mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Analog_In]
+      Warning :     Symbol name [Analog_In], mode [Normal], part [1] changed to [Analog_In_1_N]
+      Warning :     Rectangle [-800mil : -600mil]-[-400mil : 600mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [DIG_8-17]
+      Warning :     Symbol name [DIG_8-17], mode [Normal], part [1] changed to [DIG_8-17_1_N]
+      Warning :     Rectangle [-900mil : -1300mil]-[-300mil : 700mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [ULN2803]
+      Warning :     Symbol name [ULN2803], mode [Normal], part [1] changed to [ULN2803_1_N]
+      Warning :     Rectangle [-1600mil : 100mil]-[-750mil : 2100mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Ser_TTL]
+      Warning :     Symbol name [Ser_TTL], mode [Normal], part [1] changed to [Ser_TTL_1_N]
+      Warning :     Rectangle [-800mil : 1600mil]-[-200mil : 2000mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [MAX3232]
+      Warning :     Symbol name [MAX3232], mode [Normal], part [1] changed to [MAX3232_1_N]
+      Warning :     Rectangle [-1800mil : 800mil]-[-800mil : 3500mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [DIG_0-7]
+      Warning :     Symbol name [DIG_0-7], mode [Normal], part [1] changed to [DIG_0-7_1_N]
+      Warning :     Rectangle [-800mil : 400mil]-[-200mil : 2000mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [74HC595]
+      Warning :     Symbol name [74HC595], mode [Normal], part [1] changed to [74HC595_1_N]
+      Warning :     Rectangle [-1700mil : 100mil]-[-850mil : 1700mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [POWER]
+      Warning :     Symbol name [POWER], mode [Normal], part [1] changed to [POWER_1_N]
+      Warning :     Rectangle [-400mil : 0mil]-[0mil : 1600mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [J4]
+      Warning :     Symbol name [J4], mode [Normal], part [1] changed to [J4_1_N]
+      Warning :     Rectangle [-2047mil : -7550mil]-[-1700mil : 1500mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [J3]
+      Warning :     Symbol name [J3], mode [Normal], part [1] changed to [J3_1_N]
+      Warning :     Rectangle [-697mil : -7700mil]-[-350mil : 1118mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [J2]
+      Warning :     Symbol name [J2], mode [Normal], part [1] changed to [J2_1_N]
+      Warning :     Rectangle [-800mil : -1000mil]-[-200mil : 2000mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [J1]
+      Warning :     Symbol name [J1], mode [Normal], part [1] changed to [J1_1_N]
+      Warning :     Rectangle [-800mil : -1000mil]-[-200mil : 2000mil] exported as lines.
+      Information : Start exporting the symbol definitions for power ports
+      Warning :     End exporting the symbol defintions for power ports
+      Information :   End exporting symbols
+      Information : 
+      Information : 
+      Information :   Start exporting components
+      Information :    Exporting component [Term_Block_Phoenix_1803507]
+      Warning :     Component [Term_Block_Phoenix_1803507] changed to [TERM_BLOCK_PHOENIX_1803507]
+      Information :    Exporting component [Term_Block_Phoenix_1803426]
+      Warning :     Component [Term_Block_Phoenix_1803426] changed to [TERM_BLOCK_PHOENIX_1803426]
+      Information :    Exporting component [Relay_G6DN-1A DC5]
+      Warning :     Component [Relay_G6DN-1A DC5] changed to [RELAY_G6DN-1A_DC5]
+      Information :    Exporting component [Test_Serial_In]
+      Warning :     Component [Test_Serial_In] changed to [TEST_SERIAL_IN]
+      Information :    Exporting component [HD_Test_Q0-Q7]
+      Warning :     Component [HD_Test_Q0-Q7] changed to [HD_TEST_Q0-Q7]
+      Information :    Exporting component [Analog_In]
+      Warning :     Component [Analog_In] changed to [ANALOG_IN]
+      Information :    Exporting component [DIG_8-17]
+      Information :    Exporting component [ULN2803]
+      Information :    Exporting component [Ser_TTL]
+      Warning :     Component [Ser_TTL] changed to [SER_TTL]
+      Information :    Exporting component [MAX3232]
+      Information :    Exporting component [DIG_0-7]
+      Information :    Exporting component [74HC595]
+      Information :    Exporting component [POWER]
+      Information :    Exporting component [J4]
+      Information :    Exporting component [J3]
+      Information :    Exporting component [J2]
+      Information :    Exporting component [J1]
+      Information : Start exporting component definitions for power ports
+      Warning :     End exporting component definitions for powerports
+      Information :   End exporting components
+      Information : 
+   EndLog
+   Imported succesfully!
+ 
+      Information : Start export of netlist
+      Information : Start export of component instances
+      Information : End export of component instances
+      Information : Start export of nets
+      Information : End export of nets
+      Information : End export of netlist
+      Information : Start exporting the objects for sheet [Relay_Mux_Sheet1]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Exporting powerport at [3500mil : 13900mil] as component with designator [PVCC1]
+      Warning :     Exporting powerport at [3500mil : 11650mil] as component with designator [GND1]
+      Warning :     Exporting powerport at [2200mil : 2500mil] as component with designator [GND2]
+      Warning :     Exporting powerport at [2700mil : 3600mil] as component with designator [PVCC2]
+      Warning :     Exporting powerport at [2350mil : 11650mil] as component with designator [GND3]
+      Warning :     Exporting powerport at [2100mil : 11650mil] as component with designator [GND4]
+      Warning :     Exporting powerport at [3150mil : 13500mil] as component with designator [GND5]
+      Warning :     Exporting powerport at [5150mil : 11500mil] as component with designator [GND6]
+      Warning :     Exporting powerport at [17450mil : 3200mil] as component with designator [GND7]
+      Warning :     Exporting powerport at [5200mil : 5400mil] as component with designator [GND8]
+      Warning :     Exporting powerport at [3450mil : 5400mil] as component with designator [GND9]
+      Warning :     Exporting powerport at [9450mil : 14150mil] as component with designator [PVCC3]
+      Warning :     Exporting powerport at [3600mil : 8100mil] as component with designator [PVCC4]
+      Warning :     Exporting powerport at [3250mil : 7550mil] as component with designator [GND10]
+      Warning :     Exporting powerport at [9400mil : 8200mil] as component with designator [PVCC5]
+      Warning :     Exporting powerport at [12600mil : 4100mil] as component with designator [PVCC6]
+      Warning :     Exporting powerport at [12650mil : 650mil] as component with designator [GND11]
+      Warning :     Exporting powerport at [13400mil : 3800mil] as component with designator [GND12]
+      Warning :     Exporting powerport at [14050mil : 3000mil] as component with designator [GND13]
+      Warning :     Exporting powerport at [13500mil : 2550mil] as component with designator [GND14]
+      Warning :     Exporting powerport at [3900mil : 1550mil] as component with designator [GND15]
+      Warning :     Exporting powerport at [4700mil : 1550mil] as component with designator [GND16]
+      Warning :     Exporting powerport at [5350mil : 1500mil] as component with designator [GND17]
+      Information : End exporting the objects for sheet [Relay_Mux_Sheet1]
+EndLog
